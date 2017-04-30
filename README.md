@@ -3,7 +3,7 @@ Contributors: Jevuska
 Donate link: https://www.jevuska.com/donate/
 Requires at least: 4.4
 Tested up to: 4.5
-License: GPLv2
+License: GPLv3
 ---
 
 ## STT2 Extension Add Terms WordPress Plugin

@@ -5,7 +5,7 @@ Tags: post, searchterms, keywords, seo, tagging, search, stt2, postmeta, shortco
 Requires at least: 4.4
 Tested up to: 4.5
 Stable tag: 1.1.5-undev
-License: GPLv2
+License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add your terms into single post manually, get terms via referrer, and save them as post meta.
